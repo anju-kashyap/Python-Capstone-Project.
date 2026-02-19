@@ -1,2 +1,2 @@
 # Python-Capstone-Project.
-Built a clean and structured analytical dataset by processing multiple raw HR and project-related data files for reporting and analysis by using Python, Pandas, Data Cleaning, Data Wrangling, CSV Automation, Logic Building.
+Developed a scalable Python (Pandas) workflow to consolidate and cleanse disparate HR and project datasets. Automated CSV processing and applied robust logic checks to standardize schemas, handle missing/outlier values, and ensure referential consistency—producing a reliable, analysis‑ready dataset for reporting and decision‑making.
